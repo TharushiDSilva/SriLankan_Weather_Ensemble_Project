@@ -1,0 +1,20 @@
+
+# Data processing
+numpy==2.2.6
+pandas==2.3.3
+
+# Visualisation
+matplotlib==3.10.9
+seaborn==0.13.2
+plotly==7.1.0
+
+# Machine learning
+scikit-learn==1.7.2
+xgboost==3.2.0
+lightgbm==4.7.0
+catboost==1.2.10
+statsmodels==0.15.0
+
+# Dashboard and model persistence
+streamlit==1.65.0
+joblib==1.6.0

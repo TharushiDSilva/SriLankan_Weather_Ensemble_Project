@@ -1,0 +1,27 @@
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# CatBoost generated files
+catboost_info/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Large Random Forest model
+notebooks/models/random_forest.pkl
