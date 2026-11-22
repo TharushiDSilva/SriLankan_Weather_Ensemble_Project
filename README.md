@@ -85,7 +85,7 @@ Models were evaluated on the unseen test set using:
 ![Ensemble Models MAE Comparison](results/model_comparison.png)
 
 ### Normalized Multi-Metric Comparison Across All 8 Models
-![Normalized Multi-Metric Comparison](results/normalized-multi-metric-comparison-100-b.png)
+![Normalized Multi-Metric Comparison](/results/normalized-multi-metric-comparison-100-b.png)
 
 **Key findings & model interpretations:**
 - **XGBoost** achieved the lowest **MAE** (`34.2437 mm`), while **Tuned XGBoost** achieved the lowest **RMSE** (`51.3243 mm`) and highest **R²** (`0.3735`).
