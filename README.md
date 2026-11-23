@@ -9,7 +9,8 @@ Historical rainfall observations from different geographical areas are used to t
 An interactive **Streamlit** dashboard is also developed to visualise model performance, explore feature importance, and generate next-period rainfall predictions for all 34 Sri Lankan provinces and districts.
 
 ---
-
+## Live Dashboard:  [Sri Lankan Rainfall Forecasting Using Ensemble Learning and Hybrid Models](https://srilankanweatherensembleproject-zkfzvkmvbsvtvsmp7buyj2.streamlit.app/)
+---
 ## Dataset
 
 - **Source:** [Sri Lanka Rainfall Analysis Dataset](https://github.com/wethumlansakara/Sri-Lanka-Rainfall-Analysis)
